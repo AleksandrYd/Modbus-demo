@@ -76,7 +76,7 @@ def function_01(Tx_Slave_ID, Tx_Function_code, Tx_RegisterAddress, Tx_NumberAddr
     Tx = struct.pack(">HHHBBHH", *TransferPacket)
     Client_socket.send(Tx)
 
-    # Проверка сокета на наличие в нем данных в течении 0,5 секунд, если будет пусто, значит вывод ошибки
+    # Проверка сокета на наличие в нем данных в течение 0,5 секунд, если будет пусто, значит вывод ошибки
     ready = select.select([Client_socket], [], [], 0.5)
     if ready[0]:
         Rx = Client_socket.recv(4096)
