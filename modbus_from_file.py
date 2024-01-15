@@ -209,6 +209,3 @@ with open("results.txt", 'w') as file:
     file.write("\nСостояния оптронов: \n")
     for i in range(quantity_of_opt):
         file.write(f"{optrons[i][0]} состояние - {optrons[i][3]} \n")
-print(relays)
-print(optrons)
-print(amperage)
