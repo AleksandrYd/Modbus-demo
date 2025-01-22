@@ -1,0 +1,100 @@
+2
+Состояние реле 1 - 0x5269
+Состояние реле 2 - 0x526a
+2
+Состояние оптронов 1 - 0x526c
+Состояние оптронов 2 - 	0x526d
+1
+Массив неисправностей 1 - 0x52b9
+
+Relays_12
+Control.Relay1_0 Реле 1
+Control.Relay1_1 Реле 2
+Control.Relay1_2 Реле 3
+Control.Relay1_3 Отказ (инверсный)
+Control.Relay1_4 Сигнализация
+Control.Relay1_5 Реле 4
+Control.Relay1_6 Откл. 3
+Control.Relay1_7 Реле 5
+Control.Relay1_8 УРОВ
+Control.Relay1_9 Реле 6
+Control.Relay1_10 Откл. 2
+Control.Relay1_11 Откл. 1
+
+Optrons_21
+Control.Optron1_0 Сброс сигнализации
+Control.Optron1_1 Вход 5
+Control.Optron1_2 Вход 4
+Control.Optron1_3 Газ. защ. РПН
+Control.Optron1_4 Газ. защ. тр-ра
+Control.Optron1_5 Вход 3
+Control.Optron1_6 Вход 2
+Control.Optron1_7 Вход 1
+Control.Optron1_8 Вход 6
+Control.Optron1_9 Вход 7
+Control.Optron1_10 Вход 8
+Control.Optron1_11 Вход 9
+Control.Optron1_12 Вход 10
+Control.Optron1_13 Вход 11
+Control.Optron1_14 Вход 12
+Control.Optron1_15 Вход 13
+Control.Optron2_2 2й набор уставок
+Control.Optron2_4 Вход 14
+Control.Optron2_5 Вход УРОВ
+Control.Optron2_6 Вход 15
+Control.Optron2_7 Вход 16
+
+Неисправности_53
+Control.WarningBuff_0_0 Сбой питания
+Control.WarningBuff_0_1	Небаланс ДЗТ
+Control.WarningBuff_0_2	Внешнее откл. 1
+Control.WarningBuff_0_3	Внешнее откл. 2
+Control.WarningBuff_0_4	Внешнее откл. 3
+Control.WarningBuff_0_5	Внешнее откл. 4
+Control.WarningBuff_0_6	Внешнее откл. 5
+Control.WarningBuff_0_7	Внешнее откл. 6
+Control.WarningBuff_0_8	Внешнее откл. 7
+Control.WarningBuff_0_9	Внешнее откл. 8
+Control.WarningBuff_0_10 Внешнее откл. 9
+Control.WarningBuff_0_11 Внешнее откл. 10
+Control.WarningBuff_0_12 Внешнее откл. 11
+Control.WarningBuff_0_13 Внешнее откл. 12
+Control.WarningBuff_0_14 Внешнее откл. 13
+Control.WarningBuff_0_15 Внешнее откл. 14
+Control.WarningBuff_1_0	Внешнее откл. 15
+Control.WarningBuff_1_1	Внешнее откл. 16
+Control.WarningBuff_1_2	Сигн.ГЗ тр-ра
+Control.WarningBuff_1_3	Перегрузка ВН
+Control.WarningBuff_1_4	Перегрузка СН
+Control.WarningBuff_1_5	Перегрузка НН
+Control.WarningBuff_1_6	Блокировка РПН
+Control.WarningBuff_1_7	Затягивание откл.
+Control.WarningBuff_1_8	Уров.масла макс
+Control.WarningBuff_1_9	Уров.масла мин
+Control.WarningBuff_1_10 Перегрев
+Control.WarningBuff_1_11 Неисправ.обдува
+Control.WarningBuff_1_12 Вход сигн. ГЗ
+Control.WarningBuff_1_13 Пуск техн. защ.
+Control.WarningBuff_1_14 Внешний сигнал 1
+Control.WarningBuff_1_15 Внешний сигнал 2
+Control.WarningBuff_2_0	Внешний сигнал 3
+Control.WarningBuff_2_1	Внешний сигнал 4
+Control.WarningBuff_2_2	Внешний сигнал 5
+Control.WarningBuff_2_3 Внешний сигнал 6
+Control.WarningBuff_2_4 Внешний сигнал 7
+Control.WarningBuff_2_5 Внешний сигнал 8
+Control.WarningBuff_2_6 Внешний сигнал 9
+Control.WarningBuff_2_7 Внешний сигнал 9
+Control.WarningBuff_2_8 Внешний сигнал 10
+Control.WarningBuff_2_9 Внешний сигнал 11
+Control.WarningBuff_2_10 Внешний сигнал 12
+Control.WarningBuff_2_11 Внешний сигнал 13
+Control.WarningBuff_2_12 Внешний сигнал 14
+Control.WarningBuff_2_13 Внешний сигнал 15
+Control.WarningBuff_2_14 Внешний сигнал 16
+Control.WarningBuff_2_15 Нет синхр.времени
+Control.WarningBuff_3_0 Нет батарейки
+Control.WarningBuff_3_1 Плох.кач.вх.GOOSE
+Control.WarningBuff_3_2 Нет связи Eth 1
+Control.WarningBuff_3_3 Нет связи Eth 2
+Control.WarningBuff_3_4	Ошибка алг.рег.РПН
